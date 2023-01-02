@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sukhepadda" target="blank"><img align="center"  src="https://img.icons8.com/ios/512/codepen.png"  alt="@sukhepadda" height="40" width="40" /></a>
+<a href="https://codepen.io/sukhepadda" target="blank"><img align="center" style="background-color: white;"  src="https://img.icons8.com/ios/512/codepen.png"  alt="@sukhepadda" height="40" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/psukhwantsingh" target="blank"><img align="center" src="https://img.icons8.com/ios/512/twitter.png"   alt="psukhwantsingh" height="35" width="35" /></a>
