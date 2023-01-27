@@ -7,8 +7,6 @@
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-%23E4405F.svg?logo=Codepen&logoColor=white)](https://codepen.io/sukhepadda)
 [![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/psukhwantsingh)
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Seshu Yaswanth Reddy) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seshuyaswanthreddy.k)  -->
 
 
 # 💻 Tech Stack:
