@@ -1,3 +1,7 @@
+[![Codepen](https://img.shields.io/badge/Codepen-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seshuyaswanthreddy.k)
+[![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seshuyaswanthreddy.k)
+
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Padda Sukhwantsingh</h1>
 <h3 align="center">A Future Full Stack Developer from India</h3>
