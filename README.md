@@ -1,5 +1,5 @@
-[![Codepen](https://img.shields.io/badge/Codepen-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seshuyaswanthreddy.k)
-[![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seshuyaswanthreddy.k)
+[![Codepen](https://img.shields.io/badge/Codepen-%23E4405F.svg?logo=Codepen&logoColor=white)](https://facebook.com/seshuyaswanthreddy.k)
+[![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://instagram.com/seshuyaswanthreddy.k)
 
 
 # 💫 About Me:
