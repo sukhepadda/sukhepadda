@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Padda Sukhwantsingh</h1>
 <h3 align="center">A Future Full Stack Developer from India</h3>
 
+<h3>Here are my some Hosted Projects</h3>
+<h6>PaddaTechStar Servicing App Using ReactJS: https://first-react-app-lime.vercel.app/  </h6>
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhepadda&label=Profile%20views&color=0e75b6&style=flat" alt="sukhepadda" /> </p>
 
 ## 🌐 Socials:
