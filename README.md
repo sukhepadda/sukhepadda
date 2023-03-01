@@ -5,6 +5,8 @@
 <h3>Here are my some Hosted Projects</h3>
 <h6>PaddaTechStar Servicing App Using ReactJS: https://first-react-app-lime.vercel.app/  </h6>
 
+<h6>Netflix Clone(React + TMDB Api): https://netflix-react-app-chi.vercel.app/  </h6>
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhepadda&label=Profile%20views&color=0e75b6&style=flat" alt="sukhepadda" /> </p>
