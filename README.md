@@ -7,6 +7,9 @@
 
 <h6>Netflix Clone(React + TMDB Api): https://netflix-react-app-chi.vercel.app/  </h6>
 
+<h6>Padda Video Hub(React + ChakraUi): https://second-react-chakra-app.vercel.app/ </h6>
+
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhepadda&label=Profile%20views&color=0e75b6&style=flat" alt="sukhepadda" /> </p>
