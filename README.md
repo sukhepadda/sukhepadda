@@ -9,6 +9,7 @@
 
 <h6>Padda Video Hub(React + ChakraUi): https://second-react-chakra-app.vercel.app/ </h6>
 
+<h6>MyCryptoApp(React + ChakraUi) with CoinGecko API: https://mycryptoapp-three.vercel.app/ </h6>
 
 ---
 
