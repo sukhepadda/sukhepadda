@@ -11,6 +11,9 @@
 
 <h6>MyCryptoApp(React + ChakraUi) with CoinGecko API: https://mycryptoapp-three.vercel.app/ </h6>
 
+<h6>MyCart(React + Redux + ReduxToolkit): https://my-react-redux-cart.vercel.app/ </h6>
+
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhepadda&label=Profile%20views&color=0e75b6&style=flat" alt="sukhepadda" /> </p>
