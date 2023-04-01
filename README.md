@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Padda Sukhwantsingh</h1>
 <h3 align="center">A Future Full Stack Developer from India</h3>
 
-<h1>Explore My <a href="https://mypersonalportfolio-epqvcr9ww-sukhepadda.vercel.app/" target="blank">Portfolio</a></h1>
+<h1>Explore My <a href="https://mypersonalportfolio-epqvcr9ww-sukhepadda.vercel.app/" target="_blank">Portfolio</a></h1>
 
 
 <h3>Here are my some Hosted Projects</h3>
