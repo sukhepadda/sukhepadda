@@ -12,9 +12,9 @@
 
 <h5>Padda Video Hub(React + ChakraUi): https://second-react-chakra-app.vercel.app/ </h6>
 
-<h6>MyCryptoApp(React + ChakraUi) with CoinGecko API: https://mycryptoapp-three.vercel.app/ </h6>
+<h5>MyCryptoApp(React + ChakraUi) with CoinGecko API: https://mycryptoapp-three.vercel.app/ </h6>
 
-<h6>MyCart(React + Redux + ReduxToolkit): https://my-react-redux-cart.vercel.app/ </h6>
+<h5>MyCart(React + Redux + ReduxToolkit): https://my-react-redux-cart.vercel.app/ </h6>
 
 
 ---
