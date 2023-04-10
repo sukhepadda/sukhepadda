@@ -18,7 +18,7 @@
 
 ---
 
-<img src="/mycerti.png" alt="My Certificate" />
+<img src="https://github.com/sukhepadda/sukhepadda/blob/main/myedurekacertificate-pdf.png" alt="My Certificate" />
 
 ---
 
