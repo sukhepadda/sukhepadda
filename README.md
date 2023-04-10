@@ -16,6 +16,9 @@
 
 <h5>MyCart(React + Redux + ReduxToolkit): https://my-react-redux-cart.vercel.app/ </h6>
 
+---
+
+<img src="/mycerti.png" alt="My Certificate" />
 
 ---
 
