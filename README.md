@@ -8,9 +8,9 @@
 <h3>Here are my some Hosted Projects</h3>
 <h5>PaddaTechStar Servicing App Using ReactJS: https://first-react-app-lime.vercel.app/  </h5>
 
-<h6>Netflix Clone(React + TMDB Api): https://netflix-react-app-chi.vercel.app/  </h6>
+<h5>Netflix Clone(React + TMDB Api): https://netflix-react-app-chi.vercel.app/  </h6>
 
-<h6>Padda Video Hub(React + ChakraUi): https://second-react-chakra-app.vercel.app/ </h6>
+<h5>Padda Video Hub(React + ChakraUi): https://second-react-chakra-app.vercel.app/ </h6>
 
 <h6>MyCryptoApp(React + ChakraUi) with CoinGecko API: https://mycryptoapp-three.vercel.app/ </h6>
 
