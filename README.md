@@ -6,15 +6,15 @@
 
 
 <h3>Here are my some Hosted Projects</h3>
-<h5>PaddaTechStar Servicing App Using ReactJS: https://first-react-app-lime.vercel.app/  </h5>
+<h4>PaddaTechStar Servicing App Using ReactJS: https://first-react-app-lime.vercel.app/  </h5>
 
-<h5>Netflix Clone(React + TMDB Api): https://netflix-react-app-chi.vercel.app/  </h6>
+<h4>Netflix Clone(React + TMDB Api): https://netflix-react-app-chi.vercel.app/  </h6>
 
-<h5>Padda Video Hub(React + ChakraUi): https://second-react-chakra-app.vercel.app/ </h6>
+<h4>Padda Video Hub(React + ChakraUi): https://second-react-chakra-app.vercel.app/ </h6>
 
-<h5>MyCryptoApp(React + ChakraUi) with CoinGecko API: https://mycryptoapp-three.vercel.app/ </h6>
+<h4>MyCryptoApp(React + ChakraUi) with CoinGecko API: https://mycryptoapp-three.vercel.app/ </h6>
 
-<h5>MyCart(React + Redux + ReduxToolkit): https://my-react-redux-cart.vercel.app/ </h6>
+<h4>MyCart(React + Redux + ReduxToolkit): https://my-react-redux-cart.vercel.app/ </h6>
 
 ---
 
